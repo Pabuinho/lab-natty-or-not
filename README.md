@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uso de I.A.s generativas durante o curso da DIO;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto apresenta todos os desafios propostos pela DIO durante o curso
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [Chatgpt](https://chatgpt.com) para criação de textos e geração de ideias
+- [Copilot](https://copilot.microsoft.com) para criaçãao de imagens
+- [ElevenLabs](https://elevenlabs.io) para criação de aúdio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para utilizar IAs generativas de forma eficaz, como aprendido nas aulas da DIO, siga este processo:
+
+- Defina seu objetivo: Saiba o que deseja alcançar com a IA.
+- Elabore um prompt claro e detalhado: Inclua todas as informações relevantes no prompt. Um bom prompt orienta a IA corretamente.
+- Revise e ajuste conforme necessário: Avalie a resposta da IA e refine o prompt para melhorar os resultados.
+- Utilize recursos disponíveis: Aproveite as ferramentas e funcionalidades da DIO para aprimorar suas interações com a IA.
+
+Aplicando esses passos, você pode explorar o potencial das IAs generativas para criar projetos inovadores e soluções eficazes.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- EBOOK <a href="https://github.com/Pabuinho/EBOOK/blob/main/output/Ebook%20Do%20Noob%20ao%20Master.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+- Artigo <a href="https://web.dio.me/articles/linguagens-de-programacao-procedurais-vs-orientadas-a-objetos-entenda-as-diferencas?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+- Podcast <a href="https://github.com/Pabuinho/prompts-for-podcast-generate-by-ia/blob/main/output/podcast.mp3" title="View PDF now"> 📕Clique aqui para ouvir o podcast</a>
